@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rjalaparthi
-- 👀 I’m interested in Technology,Running & Analyzing NFL
-- 🌱 I’m currently learning ..
+- 👀 I’m interested in Technology
+- 🌱 I’m currently learning AWS and Devops
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
