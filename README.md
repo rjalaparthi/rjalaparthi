@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @rjalaparthi
-- 👀 I’m interested in Technology
-- 🌱 I’m currently learning AWS and Devops
+- 👀 I’m interested in Learning Cloud and Containers
+- 🌱 I’m currently learning AWS and DevOps Methodologies
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me @ https://www.linkedin.com/in/raghava-jalaparthi-455004124/
 
 <!---
 rjalaparthi/rjalaparthi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
