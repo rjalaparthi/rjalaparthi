@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rjalaparthi
-- 👀 I’m interested in Learning Cloud and Containers
+- 👀 I’m interested in Learning Cloud Native,Containers & Container Orchestration
 - 🌱 I’m currently learning AWS and DevOps Methodologies
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me @ https://www.linkedin.com/in/raghava-jalaparthi-455004124/
